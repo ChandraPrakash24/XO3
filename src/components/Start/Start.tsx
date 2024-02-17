@@ -58,9 +58,9 @@ export default function Start() {
         <Emoji>{emoji}</Emoji>
       </Square>
       <Title>
-        Tic Tac&nbsp;
+        XO&nbsp;
         <TypeAnimation
-          sequence={["Toe", 2000, "Emoji", 2000]}
+          sequence={["3", 2000, "Toe", 2000, "Poe", 2000, "Glow", 2000, "XO", 2000, "Go", 2000, "Emoji", 2000,"Bravo", 2000]}
           wrapper="span"
           speed={5}
           repeat={Infinity}
@@ -72,10 +72,10 @@ export default function Start() {
       </ButtonsContainer>
       <Footer>
         <FooterLink
-          href="https://github.com/mirayatech/tic-tac-emoji"
+          href="https://github.com/ChandraPrakash24"
           target="_blank"
         >
-          Made with love by Miraya 🤍
+          Made with love by Chandra Prakash
         </FooterLink>
       </Footer>
     </Wrapper>
