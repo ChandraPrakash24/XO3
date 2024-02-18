@@ -58,4 +58,13 @@ To run the project in your local environment, follow these steps:
 
 ## 📸 - Screenshots
 
+![Screenshot (226)](https://github.com/ChandraPrakash24/XO3/assets/107044253/85171acc-569b-41de-a8df-6cc186e5b5c9)
 
+
+![Screenshot (227)](https://github.com/ChandraPrakash24/XO3/assets/107044253/1696d800-8814-4db9-88da-7bb2baf90da3)
+
+![Screenshot (228)](https://github.com/ChandraPrakash24/XO3/assets/107044253/f741c235-2bbc-463a-b97a-89abc3700c3a)
+
+![Screenshot (230)](https://github.com/ChandraPrakash24/XO3/assets/107044253/8210b070-b13a-4a59-9930-1001e1f1e8fc)
+
+![Screenshot (229)](https://github.com/ChandraPrakash24/XO3/assets/107044253/f881091e-b10f-4b29-a067-8365c83faf6d)
